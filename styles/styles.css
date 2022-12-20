@@ -3,7 +3,6 @@
 grijs #899CA0
 donkergroen #1C2B32
 */
-
 /*////////////////////////////////////////////////////////////////////////
 Table of Contents:
     1. Global Styles
@@ -64,8 +63,8 @@ main {
     text-align: center;
     padding-top: 220px;
     padding-bottom: 350px;
-    background-size: cover;
     background: url(../assets/images/mountains.jpg) center;
+    background-size: cover;
 }
 .page-header p {
     display: block;
@@ -179,3 +178,5 @@ footer {
     padding-top: 20px;
     padding-bottom: 20px;
 }
+
+/* Feature1*/
